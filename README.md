@@ -16,7 +16,7 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
  <br/>
  <br/>
  
- 💊  &nbsp; Estou trabalhando nas Farmácias Pague Menos 💉
+ 🌲  &nbsp; Estou trabalhando na Tallos 
  <br/> :heartpulse: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NodeJs Asp.Net Core, C#, SQL Server
  <br/> 💬  &nbsp; Sobre mim: Curto ler, escrever :books:, PS4 :video_game:, Passear com meus cachorros :dog:, ouvir podcasts 🎙️, Seriados e Filmes :vhs: 
