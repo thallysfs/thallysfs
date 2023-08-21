@@ -18,7 +18,7 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
  
  🌲  &nbsp; Estou trabalhando na Tallos 
  <br/> :heartpulse: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NodeJs Asp.Net Core, C#, SQL Server
+ <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, Vue.js, Flutter, Dart, NodeJs Asp.Net Core, C#, SQL Server
  <br/> 💬  &nbsp; Sobre mim: Curto ler, escrever :books:, PS4 :video_game:, Passear com meus cachorros :dog:, ouvir podcasts 🎙️, Seriados e Filmes :vhs: 
  <br/> 📫 &nbsp; Entre em contato comigo: 
 <div> 
