@@ -10,8 +10,10 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
   <img align="center" alt="Thallys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thallys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thallys-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thallys-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Thallys-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Thallys-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Thallys-SqlServer" height="30" width="40" src="https://github.com/thallysfs/thallysfs/blob/master/.github/Microsoft%20SQL%20Server.svg">
+  <img align="center" alt="Thallys-SqlServer" height="30" width="40" src="https://github.com/thallysfs/thallysfs/blob/master/.github/Microsoft%20SQL%20Server.svg">
 </div>
  <br/>
  <br/>
