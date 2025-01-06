@@ -18,10 +18,10 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
  <br/>
  <br/>
  
- 🌲  &nbsp; Estou trabalhando na Tallos 
+ 🌲  &nbsp; Estou trabalhando na RD Station 
  <br/> :heartpulse: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, Vue.js, Flutter, Dart, NodeJs Asp.Net Core, C#, SQL Server
- <br/> 💬  &nbsp; Sobre mim: Curto ler, escrever :books:, PS4 :video_game:, Passear com meus cachorros :dog:, ouvir podcasts 🎙️, Seriados e Filmes :vhs: 
+ <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, Next.js, Vue.js, NodeJs Asp.Net Core, C#, SQL Server
+ <br/> 💬  &nbsp; Sobre mim: Curto ler, escrever :books:, PS4 e Nintendo Switch :video_game:, Passear com meus cachorros :dog:, ouvir podcasts 🎙️, Seriados e Filmes :vhs: 
  <br/> 📫 &nbsp; Entre em contato comigo: 
 <div> 
   <a href = "mailto:thallys@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
