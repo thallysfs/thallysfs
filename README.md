@@ -32,3 +32,5 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
 <!-- <a href="https://aspecta.id/u/thallysfs" target="_blank">
  https://aspecta.ai/u/thallysfs
 </a> -->
+
+![](https://komarev.com/ghpvc/?username=thallysfs&color=006bed)
