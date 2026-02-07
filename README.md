@@ -29,6 +29,6 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
  ![Snake animation](https://github.com/thallysfs/thallysfs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<a href="https://aspecta.id/u/thallysfs" target="_blank">
+<!-- <a href="https://aspecta.id/u/thallysfs" target="_blank">
  https://aspecta.ai/u/thallysfs
-</a>
+</a> -->
