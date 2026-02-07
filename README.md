@@ -2,10 +2,6 @@
 
 Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
 
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallysfs&layout=compact&langs_count=7"/>
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallysfs&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thallys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thallys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
