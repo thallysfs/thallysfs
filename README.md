@@ -18,7 +18,7 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
  <br/>
  <br/>
  
- 🌲  &nbsp; Estou trabalhando na RD Station 
+ 🌲  &nbsp; Estou desenvolvendo um sistema de gestão de consultas de reabilitação <strong>Lume System</strong>
  <br/> :heartpulse: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> 💬  &nbsp; Sobre mim: Pai do Kael, Marido da Tati. Gosto de ler, escrever :books:, PS4 e Nintendo Switch :video_game:, Passear com meus cachorros :dog:, ouvir podcasts 🎙️, Seriados e Filmes :vhs: 
  <br/> 📫 &nbsp; Entre em contato comigo: 
