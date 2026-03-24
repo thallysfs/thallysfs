@@ -1,6 +1,7 @@
 # Thallys Freitas
 
 Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
+<br/>
 <img width="1376" height="768" alt="banner_git" src="https://github.com/user-attachments/assets/b872dcae-7e43-434a-a98f-f0fc7dc16024" />
 
 
