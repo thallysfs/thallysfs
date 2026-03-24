@@ -1,6 +1,8 @@
 # Thallys Freitas
 
 Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
+<img width="1376" height="768" alt="banner_git" src="https://github.com/user-attachments/assets/b872dcae-7e43-434a-a98f-f0fc7dc16024" />
+
 
 Linguagens e ferramentas:
 
@@ -27,8 +29,9 @@ Linguagens e ferramentas:
 <div> 
   <a href = "mailto:thallys@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thallys-freitas-87155074/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
- ![Snake animation](https://github.com/thallysfs/thallysfs/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thallysfs/thallysfs/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 <!-- <a href="https://aspecta.id/u/thallysfs" target="_blank">
