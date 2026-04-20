@@ -9,7 +9,7 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
 
 Linguagens e ferramentas:
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block">
   <img align="center" alt="Thallys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thallys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thallys-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
