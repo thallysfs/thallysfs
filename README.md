@@ -6,10 +6,11 @@ Gosto de criar soluções e estar por dentro das novas tecnologias. :computer:
 
 <img width="1376" height="768" alt="banner_git" src="https://github.com/user-attachments/assets/b872dcae-7e43-434a-a98f-f0fc7dc16024" />
 
-
+<br />
 Linguagens e ferramentas:
+<br />
 
-<div style="display: inline-block">
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img align="center" alt="Thallys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thallys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thallys-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
